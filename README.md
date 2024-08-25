@@ -1,5 +1,3 @@
-# README
-
 <h1 align="center">Hi 👋, I'm Mohan Kakarla</h1>
 <h3 align="center">Artificial Intelligence | Machine Learning | Deep Learning</h3>
 
