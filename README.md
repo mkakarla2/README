@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kakarla-mohan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mithil gaonkar" height="30" width="40" /></a>
-<a href="https://kaggle.com/mithil gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mithil gaonkar" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/mohankakarla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mithil gaonkar" height="30" width="40" /></a>
 <a href="https://instagram.com/mithil_gaonkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mithil_gaonkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mithil07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mithil01" height="30" width="40" /></a>
 </p>
